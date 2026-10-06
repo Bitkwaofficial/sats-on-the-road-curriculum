@@ -1,3 +1,4 @@
+<!-- DRAFT: owner to review -->
 <p align="center"><img src="../media/brand/sotr-logo.png" alt="Sats On The Road" width="300"></p>
 
 # Translation Guide
@@ -25,10 +26,14 @@ Please work in this order. Each piece builds on the one before it.
 4. **The consent form.** The form people sign before a photo or video is taken of
    them. This protects people, so the translation must be clear and accurate, not
    rushed. If anything is unclear, ask before guessing.
+5. **The Day 2 handouts.** The sheets for the second day (self-custody, privacy
+   and opsec, how to teach, merchant onboarding, the ambassador commitment). These
+   support the people who go on to train and onboard others.
 
-Later pieces (the full slides, the ambassador playbook, the safety material) come
-after these four. Do not feel you must do everything. One well-translated handout
-is a real contribution.
+So the full order is: glossary, then Day 1 handouts, then the merchant sign, then
+the consent form, then Day 2 handouts. Later pieces (the full slides, the
+ambassador playbook, the rest of the safety material) come after these. Do not
+feel you must do everything. One well-translated handout is a real contribution.
 
 ## How terms stay consistent
 
@@ -72,9 +77,11 @@ You do not need a computer. You can do all of this in a phone browser on GitHub.
 6. **Tap "Create pull request".** That sends your work to us to review and merge.
    We may suggest small changes; that is normal and part of the process.
 
-Prefer not to use GitHub? Open an
-["Offer a translation" issue](../.github/ISSUE_TEMPLATE/offer-a-translation.md)
-instead and we will help you get your work in.
+Prefer not to type? A photo works. Open an
+["Offer a translation" issue](../.github/ISSUE_TEMPLATE/offer-a-translation.md),
+write out the translation by hand on paper, take a clear photo of it, and attach
+the photo to the issue. That is a perfectly acceptable way to submit. We will type
+it up and credit you.
 
 ## Where things live
 
