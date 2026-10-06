@@ -2,7 +2,13 @@
 marp: true
 theme: default
 paginate: true
+footer: '![h:28](../../../media/brand/sotr-logo.png)'
 ---
+
+<!-- _paginate: false -->
+<!-- _footer: "" -->
+
+![w:300](../../../media/brand/sotr-logo.png)
 
 # Market practice
 

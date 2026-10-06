@@ -18,7 +18,8 @@ order so every episode in the series feels the same. The segments match the
 ## Intro (0:00)
 
 [CONFIRM: a short cold open, the strongest moment from the stop, then the title
-card. Keep it under [CONFIRM: seconds].]
+card. Keep it under [CONFIRM: seconds].] The title card shows the Sats On The Road
+logo ([`brand/sotr-logo.png`](./brand/sotr-logo.png)) over the first strong shot.
 
 ## Segments
 
@@ -33,6 +34,23 @@ Follow the shot-list order:
 7. **Interview**, [CONFIRM: notes, one question: what changed for you?]
 8. **Landscape / road b-roll**, [CONFIRM: notes, use to open, bridge or close]
 9. **Sign-off**, [CONFIRM: notes, mirror the arrival]
+10. **End card**, the Sats On The Road logo, the tagline "Driving Bitcoin across
+    the African continent.", satsontheroad.africa, and a QR to /join. Hold for
+    [CONFIRM: seconds].
+
+## Branding (carry the logo)
+
+Every episode should read as Sats On The Road at a glance. Use the one logo file,
+[`brand/sotr-logo.png`](./brand/sotr-logo.png), everywhere:
+
+- **Title card:** the logo over the opening shot (see Intro).
+- **Brand bug:** a small logo in a bottom corner, kept on screen through the whole
+  episode at low opacity so it never blocks faces or captions.
+- **End card:** the logo, the tagline, the website, and a /join QR (segment 10).
+- **Thumbnail:** include the logo on the episode thumbnail.
+
+Keep the logo clear-space clean (do not stretch, recolour or crowd it), and keep
+the orange #F7931A and near-black #0D0D0D brand colours for captions and cards.
 
 ## Lower-thirds
 

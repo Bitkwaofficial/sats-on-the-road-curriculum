@@ -19,10 +19,13 @@ faces of anyone who did not give it.
 | 7 | **Interview** | A short piece-to-camera from a learner, ambassador or merchant | One clear question: what changed for you? Consent first. |
 | 8 | **Landscape / road b-roll** | The road, the countryside, the next town ahead | Quiet shots to breathe between segments and to open or close. |
 | 9 | **Sign-off** | A closing shot, the team or vehicle leaving | Mirrors the arrival. Leaves the viewer with the place. |
+| 10 | **Branding** | Logo on the vehicle, banners, merchant signs, a clean plate for the end card | Feeds the title card, the brand bug and the end card. See [episode template](./episode-template.md). |
 
 ## Practical notes
 
 - Shoot horizontal for the main episode. Grab a few vertical clips for social.
+- Leave headroom in a bottom corner of your framing for the logo brand bug, so it
+  never covers a face or a caption.
 - Record a little room tone and ambient market sound; it helps the edit.
 - Keep a quick note of who appears and whether they consented, so the editor knows
   which faces to blur.

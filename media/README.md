@@ -7,6 +7,26 @@ them when you reuse them. All teaching material and media in this repository is
 licensed [CC BY 4.0](../LICENSE-CONTENT.md), so you are free to share and adapt it,
 as long as you keep the credit.
 
+## Brand files
+
+The one logo for everything is [`brand/sotr-logo.png`](./brand/sotr-logo.png).
+Use it, and the brand colours orange `#F7931A` and near-black `#0D0D0D`, so every
+part of the project reads as Sats On The Road at a glance.
+
+Where the logo is used:
+
+- **Documents:** a header on every guide, handout, playbook and template in this
+  repository.
+- **Slides:** on each deck's title slide and as a small footer on every slide (see
+  [`../tools/build-slides.md`](../tools/build-slides.md)).
+- **Episodes:** the title card, a persistent corner brand bug, the end card, and
+  the thumbnail (see [`episode-template.md`](./episode-template.md)).
+- **Field:** the vehicle wrap, banners, the merchant
+  [signage](../merchant-kit), and the [join QR](../merchant-kit).
+
+Keep its clear space clean: do not stretch, recolour or crowd the logo. If you need
+other formats (SVG, transparent, monochrome), add them to this `brand/` folder.
+
 ## Footage archive
 
 The raw and edited footage lives in a public archive so anyone can reuse it.
