@@ -86,7 +86,7 @@ Paying and getting paid
 - name@example.com
 - Reusable: people can pay you again and again
 
-<!-- notes: [CONFIRM whether your wallet gives each learner a Lightning address]. -->
+<!-- notes: [OWNER TO FILL whether your wallet gives each learner a Lightning address]. -->
 
 ---
 

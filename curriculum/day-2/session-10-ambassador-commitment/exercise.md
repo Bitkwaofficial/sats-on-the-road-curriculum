@@ -34,5 +34,5 @@ Tell your partner your first-month plan in two sentences. Ask them for one idea 
 ## Facilitator notes
 
 - This doubles as a gentle readiness check. Someone who cannot name a single realistic next step may not be ready to commit yet, and that is fine.
-- Remind them the real report is due `[CONFIRM: monthly report due date]` and is discussed on the monthly call.
+- Remind them the real report is due `[OWNER TO FILL: monthly report due date]` and is discussed on the monthly call.
 - Collect no personal data here; the practice report stays with the ambassador.

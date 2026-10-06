@@ -25,7 +25,7 @@ A Lightning address looks like an email address, for example `name@example.com`.
 
 A real example: the Sats On The Road fundraiser receives Lightning at `satsontheroadafrica@geyser.fund`.
 
-[CONFIRM: whether your wallet gives each learner their own Lightning address.]
+[OWNER TO FILL: whether your wallet gives each learner their own Lightning address.]
 
 ## Safety reminders (still true)
 - Keep only everyday spending money in your phone wallet.

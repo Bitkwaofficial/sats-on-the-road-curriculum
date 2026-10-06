@@ -13,7 +13,7 @@
 **Materials:**
 - Each learner's phone and wallet from Session 3.
 - Internet or data for the room.
-- A small amount of sats in each wallet to practice with (from Session 3, or top up). [CONFIRM: amount.]
+- A small amount of sats in each wallet to practice with (from Session 3, or top up). [OWNER TO FILL: amount.]
 - A screen or large phone view for the live demonstration, if available.
 - Board or flip chart, printed handouts.
 
@@ -62,7 +62,7 @@ Talking points:
 - A **Lightning invoice** is a request for a payment. The receiver creates it, often as a QR code. It can include a set amount. Once paid, it is used up.
 - To get paid: tap "Receive," choose Lightning, enter the amount if asked, and show the invoice or QR code.
 - To pay: tap "Send," scan the invoice or QR code, check the amount, and confirm.
-- A **Lightning address** looks like an email address, for example `name@example.com`. It is reusable, so people can pay you again and again without a new invoice each time. [CONFIRM: whether your chosen wallet gives each learner a Lightning address.]
+- A **Lightning address** looks like an email address, for example `name@example.com`. It is reusable, so people can pay you again and again without a new invoice each time. [OWNER TO FILL: whether your chosen wallet gives each learner a Lightning address.]
 - Note for fundraising context: the Sats On The Road fundraiser can receive Lightning to the address `satsontheroadafrica@geyser.fund`. This is a real example of a Lightning address in use.
 
 ### 38 to 52, Live demonstration (14 min)

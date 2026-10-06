@@ -48,7 +48,7 @@ Payments cannot be reversed. Always check before you confirm.
 - **Machankura:** Lightning over USSD for basic feature phones, no smartphone needed.
 - Hardware or seed-phrase wallets for savings.
 
-[CONFIRM: which options work in this country, and which one the class used today, `[primary wallet]`.]
+[OWNER TO FILL: which options work in this country, and which one the class used today, `[primary wallet]`.]
 
 ## An honest note
 This course gives no financial advice and makes no price predictions. Bitcoin's price in `[local currency]` can rise and fall.

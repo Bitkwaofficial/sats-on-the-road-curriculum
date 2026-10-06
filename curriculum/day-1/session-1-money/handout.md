@@ -30,7 +30,7 @@ Good money is:
 When more money is created, each note in your pocket buys a little less. That is inflation. Nobody gets richer when the supply grows; prices just rise.
 
 Our `[local currency]` example: think of what one everyday item cost years ago, and what it costs now. The difference is lost purchasing power.
-[CONFIRM: a local price example, filled in by the country lead.]
+[OWNER TO FILL: a local price example, filled in by the country lead.]
 
 ## An honest note
 Fiat money is convenient and cheap to use. The weakness is that a small group can create more of it, and ordinary savers carry the cost. People have long wanted money that no small group can print at will. That search is where Bitcoin comes in, which is our next session.

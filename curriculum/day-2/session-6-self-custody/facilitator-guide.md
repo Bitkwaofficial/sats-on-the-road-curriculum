@@ -61,7 +61,7 @@ Go through how people actually lose coins:
 Ask ambassadors to add scams they have seen locally.
 
 ### 50–58 min, Cold storage for savings (8)
-Separate spending money from savings. A mobile wallet is fine for daily spending. For savings you want to keep for a long time, a hardware (cold) wallet keeps the keys offline, away from malware. Explain the trade-off: more secure, costs money, and the same rule applies, back up the seed and test the recovery. `[CONFIRM: whether a specific hardware wallet is recommended per country]`.
+Separate spending money from savings. A mobile wallet is fine for daily spending. For savings you want to keep for a long time, a hardware (cold) wallet keeps the keys offline, away from malware. Explain the trade-off: more secure, costs money, and the same rule applies, back up the seed and test the recovery. `[OWNER TO FILL: whether a specific hardware wallet is recommended per country]`.
 
 ### 58–60 min, Wrap (2)
 One sentence each: "My seed phrase is safe when ___." Point to the quiz for the ambassador badge, and to Session 7 (privacy and opsec) coming next.

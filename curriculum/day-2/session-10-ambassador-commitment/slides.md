@@ -40,7 +40,7 @@ A shared promise, so the whole trip can see progress.
 - People onboarded
 - Merchants signed up
 
-[CONFIRM: targets per month]
+[OWNER TO FILL: targets per month]
 
 <!-- notes: Targets guide support, they are not a trap. Point to the playbook for exact numbers. -->
 
@@ -50,7 +50,7 @@ A shared promise, so the whole trip can see progress.
 
 What you did, how many people and merchants, what worked, what was hard, what you need.
 
-Due [CONFIRM: monthly report due date].
+Due [OWNER TO FILL: monthly report due date].
 
 <!-- notes: Walk the template field by field. This is how the network learns. -->
 
@@ -60,7 +60,7 @@ Due [CONFIRM: monthly report due date].
 
 A short group call.
 
-[CONFIRM: monthly call day and time]
+[OWNER TO FILL: monthly call day and time]
 
 Share wins, problems, and questions. Ask for help here.
 
@@ -70,8 +70,8 @@ Share wins, problems, and questions. Ask for help here.
 
 # Stipend, in brief
 
-- Possible stipend: [CONFIRM: amount and currency]
-- Paid: [CONFIRM: schedule]
+- Possible stipend: [OWNER TO FILL: amount and currency]
+- Paid: [OWNER TO FILL: schedule]
 - It follows the work: reporting and real activity required
 
 A support for costs, not a salary.
@@ -106,7 +106,7 @@ Including activists and journalists.
 
 # Taking the commitment
 
-Ready? Sign [CONFIRM: commitment form location].
+Ready? Sign [OWNER TO FILL: commitment form location].
 
 Not yet? That is honourable too.
 
@@ -130,6 +130,6 @@ Keep learning and keep teaching.
 
 Two days of real work.
 
-The first monthly call: [CONFIRM: first monthly call date]
+The first monthly call: [OWNER TO FILL: first monthly call date]
 
 <!-- notes: Point to the quiz for the badge. Close warmly. -->

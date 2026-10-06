@@ -5,7 +5,7 @@
 **Time:** about 14 minutes
 **Goal:** see and feel how fast and cheap Lightning is by passing sats across the room and paying a live invoice.
 
-Everyone uses the wallet they set up in Session 3. Make sure each wallet has a small amount of sats to practice with. [CONFIRM: amount.]
+Everyone uses the wallet they set up in Session 3. Make sure each wallet has a small amount of sats to practice with. [OWNER TO FILL: amount.]
 
 ## Part 1: The sats relay (about 8 min)
 Split the room into groups of 3 to 5, standing or sitting in a line (person A, B, C, and so on).

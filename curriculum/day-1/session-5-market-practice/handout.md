@@ -15,11 +15,11 @@ Payments cannot be reversed, so always check before you confirm.
 
 ## Finding merchants
 - Many merchants show a QR code at the till, or use a simple wallet on their own phone.
-- **BTCMap.org** is an open map where shops that accept Bitcoin list themselves. Search your area to find them. [CONFIRM: what is listed near you.]
+- **BTCMap.org** is an open map where shops that accept Bitcoin list themselves. Search your area to find them. [OWNER TO FILL: what is listed near you.]
 - A pilot session was run in Lomé, Togo, and partners work with a growing network of local merchants along the route.
 
 ## Troubleshooting
-- **No signal or slow data:** move to better signal, switch between wifi and mobile data, or wait and retry. Where there is no smartphone data, USSD options like Machankura exist. [CONFIRM availability.]
+- **No signal or slow data:** move to better signal, switch between wifi and mobile data, or wait and retry. Where there is no smartphone data, USSD options like Machankura exist. [OWNER TO FILL availability.]
 - **Wrong amount:** stop before confirming and ask for a fresh invoice.
 - **Payment failed:** the sats stay with you. Try again, or ask for a new invoice. A failed payment is not a lost payment.
 - **Merchant unsure it arrived:** show them your "sent" screen and ask them to refresh their wallet.

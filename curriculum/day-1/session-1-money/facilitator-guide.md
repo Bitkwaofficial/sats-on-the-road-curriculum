@@ -66,7 +66,7 @@ Connect the auction to real life, using `[local currency]` as the example.
 Talking points:
 - In round two, nobody got richer. There was just more money chasing the same prize, so the price went up. That is inflation.
 - When more `[local currency]` is created, each note in your pocket buys a little less.
-- Ask the room: "What did one loaf of bread, or one litre of fuel, cost when you were younger? What does it cost now?" Let a few people answer. [CONFIRM: a local price example the country lead can fill in, e.g. bread or transport fare.]
+- Ask the room: "What did one loaf of bread, or one litre of fuel, cost when you were younger? What does it cost now?" Let a few people answer. [OWNER TO FILL: a local price example the country lead can fill in, e.g. bread or transport fare.]
 - This is why saving in a currency that loses value is hard. You work, you save, and the money quietly shrinks.
 - Be fair and honest: fiat money is easy to use and convenient. The problem is that a small group can create more of it, and ordinary savers carry the cost.
 
