@@ -1,6 +1,5 @@
-date,country,city,people_onboarded,merchants_onboarded,ambassadors_trained,sats_circulated,notes
-# Countries visited so far: Benin, Togo, Burkina Faso, run from the Nigeria base. Fill the counts and dates from the live dashboard; values marked [CONFIRM].,,,,,,,
-[CONFIRM: YYYY-MM-DD],Nigeria,[CONFIRM: base city],[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"Base, trip start and return"
-[CONFIRM: YYYY-MM-DD],Benin,[CONFIRM: city],[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"Visited, confirm counts"
-[CONFIRM: YYYY-MM-DD],Togo,Lomé,[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"Visited, the one-session pilot stop"
-[CONFIRM: YYYY-MM-DD],Burkina Faso,[CONFIRM: city],[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"Visited, confirm counts"
+date,country,city,stop_type,people_onboarded,merchants_onboarded,ambassadors_trained,sats_circulated,notes
+[OWNER TO FILL],Nigeria,Lagos,pilot-launch,[OWNER TO FILL],[OWNER TO FILL],[OWNER TO FILL],[OWNER TO FILL],Pilot launch and base
+[OWNER TO FILL],Benin,Cotonou,pilot,[OWNER TO FILL],11,[OWNER TO FILL],[OWNER TO FILL],11 merchants onboarded at this stop (from site)
+[OWNER TO FILL],Togo,Lomé,pilot,43,[OWNER TO FILL],[OWNER TO FILL],[OWNER TO FILL],43 students in one session (from site)
+[OWNER TO FILL],Burkina Faso,Ouagadougou,pilot,[OWNER TO FILL],[OWNER TO FILL],[OWNER TO FILL],[OWNER TO FILL],Pilot stop

@@ -1,48 +1,46 @@
 <p align="center"><img src="../media/brand/sotr-logo.png" alt="Sats On The Road" width="300"></p>
 
-# Pilot Lessons
+# Pilot lessons (2026)
 
-This page is written once and linked from grant and partnership applications, so
-reviewers can see what the pilot actually taught us without us retyping it each
-time. Keep it honest and specific. Fill every `[CONFIRM]` with the real detail
-before sharing.
+The 2026 pilot was one person and one car, after Nigeria, through Benin, Togo and
+Burkina Faso: 3,000+ km, 1,000+ people onboarded to self-custodial wallets, 22
+local educators trained, 20+ merchants accepting Lightning, 240+ merchants,
+mechanics and hostel owners paid in sats, 14 partner organisations. Total cost
+about USD 3,400 (USD 1,000 from Conférence Bitcoin Afrique, more than USD 2,400
+personal).
 
-> Pilot stop: a one-session Bitcoin class run in **Lomé, Togo** on
-> `[CONFIRM: pilot date]`, with roughly `[CONFIRM: number]` people.
+Here is what the pilot taught us, and what we changed for Phase 1A.
 
-## What worked
+## 1. Borders
 
-- [CONFIRM: what landed well, for example hands-on wallet setup, market practice,
-  a local-currency price example that made sats click]
-- [CONFIRM: which wallet or method people picked up fastest]
+**What happened:** crossing borders (Seme, Hilacondji, Cinkansé) cost days and
+money every time.
+**What we changed:** no more cross-border driving. We fly between countries, and
+rent and brand a local vehicle with a driver in each one.
 
-## Borders
+## 2. Fuel
 
-- [CONFIRM: what crossing borders cost us in time and money, which crossings were
-  slow, any documents or permits needed for the vehicle and team]
-- [CONFIRM: what we would do differently next crossing]
+**What happened:** stretches of the Togo to Burkina road had no fuel, or only
+jerrycans at the roadside.
+**What we changed:** we work within one country at a time with a local driver who
+knows the supply, instead of long cross-border legs.
 
-## Fuel
+## 3. Breakdown
 
-- [CONFIRM: fuel cost and availability along the route, any stretch where fuel was
-  hard to find, how this affected the budget and schedule]
+**What happened:** a shock absorber failed, with no budget to fix it.
+**What we changed:** we rent and brand a local vehicle per country, so upkeep sits
+with the operator, and Phase 1A carries an emergency fund.
 
-## The vehicle (the shock absorber)
+## 4. One person cannot do it all
 
-- [CONFIRM: what happened with the vehicle, including the shock absorber repair,
-  where it failed, how long the fix took, and the cost]
-- [CONFIRM: the lesson, for example spares to carry, a mechanic contact per
-  country, buffer days in the schedule]
+**What happened:** one person could not teach, onboard and film at the same time.
+Nothing was filmed.
+**What we changed:** a team. Babatunde Precious leads education and onboarding;
+Toluwalashe Oke leads documentary and media, so every country is recorded.
 
-## What changed because of the pilot
+## 5. Money
 
-- [CONFIRM: concrete changes to the curriculum, for example shortening a session,
-  adding a feature-phone option, printing more handouts]
-- [CONFIRM: changes to logistics, for example budgeting for repairs, booking
-  venues earlier, confirming merchants before arrival]
-- [CONFIRM: changes to how we pick and support ambassadors]
-
-## Numbers from the pilot
-
-See the [dashboard](./dashboard.csv) for counts. Treat every figure as
-`[CONFIRM from live dashboard]` until verified.
+**What happened:** the pilot cost about USD 3,400, mostly personal, with USD 1,000
+from Conférence Bitcoin Afrique.
+**What we changed:** a funded Phase 1A with a real budget. Flights cost less than
+the hidden price of borders, fuel gaps and breakdowns.

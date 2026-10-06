@@ -1,51 +1,61 @@
+<!-- DRAFT: owner to review -->
 <p align="center"><img src="../media/brand/sotr-logo.png" alt="Sats On The Road" width="300"></p>
 
-# Phase 1A Report
+# Phase 1A report
 
-This is the report structure for **Phase 1A** (West Africa). It exists now, before
-the phase runs, so the shape is agreed in advance and we only fill in numbers
-later. Replace every `[CONFIRM]` with real data as the phase progresses. Pull
-per-country rows from the [dashboard](./dashboard.csv) and the
-[country reports](./country-reports/).
-
-- **Phase:** 1A (West Africa)
-- **Countries:** [CONFIRM: likely Ghana, Benin, Togo, Burkina Faso, then
-  Côte d'Ivoire, Liberia, Sierra Leone]
-- **Dates:** [CONFIRM: start] to [CONFIRM: end]
-- **Report prepared by:** [CONFIRM: name]
-- **Date of this report:** [CONFIRM: YYYY-MM-DD]
+Template. Fill in after Phase 1A (1 January to 30 April 2027). Keep it short and
+honest. One country report per visit feeds this (see
+[`country-reports/`](./country-reports)).
 
 ## Summary
 
-[CONFIRM: two or three plain sentences on what Phase 1A set out to do and what it
-achieved. No hype, just what happened.]
+[OWNER TO FILL: two or three sentences on how Phase 1A went.]
 
-## Numbers by country
+## Countries visited
 
-| Country | Towns visited | People onboarded | Merchants onboarded | Ambassadors trained | Sats circulated |
-|---------|--------------:|-----------------:|--------------------:|--------------------:|----------------:|
-| [CONFIRM: Ghana] | [CONFIRM] | [CONFIRM] | [CONFIRM] | [CONFIRM] | [CONFIRM] |
-| [CONFIRM: Benin] | [CONFIRM] | [CONFIRM] | [CONFIRM] | [CONFIRM] | [CONFIRM] |
-| [CONFIRM: Togo] | [CONFIRM] | [CONFIRM] | [CONFIRM] | [CONFIRM] | [CONFIRM] |
-| [CONFIRM: Burkina Faso] | [CONFIRM] | [CONFIRM] | [CONFIRM] | [CONFIRM] | [CONFIRM] |
-| **Total** | **[CONFIRM]** | **[CONFIRM]** | **[CONFIRM]** | **[CONFIRM]** | **[CONFIRM]** |
+| Country | Dates | People onboarded | Merchants | Ambassadors trained | Workshop held |
+|---------|-------|------------------|-----------|---------------------|---------------|
+| Nigeria | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] |
+| Benin | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] |
+| Togo | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] |
+| Burkina Faso | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] |
+| Ghana | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] |
+| Côte d'Ivoire | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] |
+| Liberia | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] |
+| Sierra Leone | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] | [OWNER TO FILL] |
 
-Add or remove rows as the confirmed country set changes.
+## People onboarded (team / ambassadors)
 
-## Highlights
+[OWNER TO FILL: split between people onboarded by the team on the road and by local ambassadors after.]
 
-- [CONFIRM: a moment that went well, a town, a merchant, an ambassador worth
-  naming with their consent]
-- [CONFIRM: the strongest partnership or community that formed]
+## Ambassadors trained and active at 30 days
 
-## Problems
+[OWNER TO FILL: number trained, and how many were still active 30 days later.]
 
-- [CONFIRM: what went wrong, honestly, for example borders, fuel, vehicle repairs,
-  a venue that fell through, a wallet that was hard to use locally]
-- [CONFIRM: what it cost us in time or money]
+## Activists and journalists onboarded (count)
 
-## Next steps
+[OWNER TO FILL: count only, no names, per the verification rules.]
 
-- [CONFIRM: what Phase 1A hands to the next phase, including which ambassadors are
-  active and what they need]
-- [CONFIRM: fixes to make before the next leg]
+## Merchants onboarded and active at 30 days
+
+[OWNER TO FILL: number onboarded, and how many still accepted sats at 30 days.]
+
+## Country workshops held
+
+[OWNER TO FILL: how many of the last-day workshops ran, and rough attendance.]
+
+## Episodes released
+
+[OWNER TO FILL: which country episodes were published, with links.]
+
+## Spend against budget
+
+[OWNER TO FILL: planned vs actual, with the main lines.]
+
+## What worked
+
+[OWNER TO FILL]
+
+## What we change for Phase 1B
+
+[OWNER TO FILL]
