@@ -43,10 +43,13 @@ Follow the shot-list order:
 Every episode should read as Sats On The Road at a glance. Use the one logo file,
 [`brand/sotr-logo.png`](./brand/sotr-logo.png), everywhere:
 
-- **Title card:** the logo over the opening shot (see Intro).
+- **Title card:** use [`brand/title-card.html`](./brand/title-card.html) (fill in
+  country / city), over or before the opening shot.
 - **Brand bug:** a small logo in a bottom corner, kept on screen through the whole
-  episode at low opacity so it never blocks faces or captions.
-- **End card:** the logo, the tagline, the website, and a /join QR (segment 10).
+  episode at low opacity so it never blocks faces or captions. Use the
+  [lower-third](./brand/lower-third.html) for name and role captions.
+- **End card:** use [`brand/end-card.html`](./brand/end-card.html), the logo, the
+  tagline, the website, and the /join QR (segment 10).
 - **Thumbnail:** include the logo on the episode thumbnail.
 
 Keep the logo clear-space clean (do not stretch, recolour or crowd it), and keep

@@ -63,9 +63,14 @@ npx @marp-team/marp-cli@latest curriculum/day-1/session-1-money/slides.md --prev
 - Put teacher notes in an HTML comment: `<!-- notes: ... -->`.
 - Follow the project [style rules](../CONTRIBUTING.md): no em-dashes, and only the
   functional symbols ₿, ⚡ and ♪.
-- Each deck already carries the brand: the Sats On The Road logo is on the title
-  slide and as a small footer on every slide, set with the `footer:` front-matter
-  pointing at the logo in `media/brand/`. Keep that when you edit a deck.
+- **A branded, ready-to-present `slides.pptx` already ships in every session
+  folder** (cream canvas, orange accents, the logo, real trip photography on the
+  title slide). Open and edit it in PowerPoint or Google Slides, translate it, or
+  project it as-is. The `slides.md` here is the plain-text source for diffs and
+  translation; regenerate the PPTX from it when the content changes.
+- Each `slides.md` also carries the brand: the logo is on the title slide and as a
+  small footer on every slide, set with the `footer:` front-matter pointing at the
+  logo in `media/brand/`. Keep that when you edit a deck.
 - To theme the decks further with SOTR colours (orange #F7931A, near-black #0D0D0D,
   cream #F6EFE3), add a Marp theme CSS and reference it in the front-matter.
 

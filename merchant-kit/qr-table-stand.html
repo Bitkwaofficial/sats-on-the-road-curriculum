@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>QR table stand</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  @page{size:A4 portrait;margin:0;}
+  :root{--orange:#F7931A;--orange-deep:#C46B07;--ink:#0D0D0D;--paper:#F6EFE3;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:210mm;height:297mm;}
+  body{font-family:"Bricolage Grotesque",sans-serif;background:var(--paper);-webkit-print-color-adjust:exact;print-color-adjust:exact;display:flex;flex-direction:column;}
+  .panel{height:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:14mm;background:radial-gradient(90% 70% at 50% 40%,rgba(247,147,26,.14),transparent 70%),#fffaf2;}
+  .top{transform:rotate(180deg);}           /* mirrored so both read upright when folded */
+  .fold{height:0;border-top:2px dashed var(--ink);position:relative;}
+  .fold span{position:absolute;left:50%;top:-10px;transform:translateX(-50%);background:var(--paper);padding:0 8px;font-family:"JetBrains Mono",monospace;font-size:11px;letter-spacing:.2em;color:var(--ink);text-transform:uppercase;}
+  .logo{height:20mm;margin-bottom:6mm;}
+  h2{font-weight:800;font-size:40px;letter-spacing:-.02em;}
+  h2 .bolt{color:var(--orange);}
+  .qrbox{margin-top:7mm;width:52mm;height:52mm;border:3px solid var(--ink);border-radius:5mm;background:linear-gradient(45deg,#0d0d0d 25%,transparent 25%,transparent 75%,#0d0d0d 75%) 0 0/13mm 13mm,linear-gradient(45deg,#0d0d0d 25%,transparent 25%,transparent 75%,#0d0d0d 75%) 6.5mm 6.5mm/13mm 13mm,#fff;opacity:.92;}
+  .cap{margin-top:5mm;font-family:"JetBrains Mono",monospace;font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--orange-deep);}
+  .site{margin-top:2mm;font-family:"JetBrains Mono",monospace;font-size:12px;color:var(--ink);}
+</style>
+</head>
+<body>
+  <div class="panel top">
+    <img class="logo" src="../media/brand/sotr-logo.png" alt="Sats On The Road">
+    <h2>Pay with Bitcoin <span class="bolt">⚡</span></h2>
+    <div class="qrbox"></div><div class="cap">Scan to pay</div><div class="site">satsontheroad.africa</div>
+  </div>
+  <div class="fold"><span>fold here</span></div>
+  <div class="panel">
+    <img class="logo" src="../media/brand/sotr-logo.png" alt="Sats On The Road">
+    <h2>Pay with Bitcoin <span class="bolt">⚡</span></h2>
+    <div class="qrbox"></div><div class="cap">Scan to pay</div><div class="site">satsontheroad.africa</div>
+  </div>
+</body>
+</html>

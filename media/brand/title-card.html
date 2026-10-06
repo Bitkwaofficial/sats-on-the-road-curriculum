@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Episode title card</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{--orange:#F7931A;--orange-deep:#C46B07;--ink:#0D0D0D;--paper:#F6EFE3;--line:#d8cdb3;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1280px;height:720px;overflow:hidden;}
+  body{font-family:"Bricolage Grotesque",sans-serif;background:var(--paper);color:var(--ink);display:flex;flex-direction:column;justify-content:center;padding:0 90px;position:relative;}
+  .logo{position:absolute;top:54px;left:90px;height:78px;}
+  .tag{position:absolute;top:66px;right:90px;font-family:"JetBrains Mono",monospace;font-size:13px;letter-spacing:.2em;color:var(--orange-deep);text-transform:uppercase;}
+  .eyebrow{font-family:"JetBrains Mono",monospace;font-size:18px;letter-spacing:.2em;text-transform:uppercase;color:var(--orange-deep);}
+  h1{font-weight:800;font-size:88px;line-height:.95;letter-spacing:-.025em;margin-top:14px;}
+  h1 .b{color:var(--orange);}
+  .loc{margin-top:22px;font-size:26px;color:var(--ink);font-weight:600;}
+  .road{position:absolute;left:0;right:0;bottom:70px;height:6px;background:repeating-linear-gradient(90deg,var(--ink) 0 30px,transparent 30px 52px);opacity:.22;}
+  .foot{position:absolute;left:90px;bottom:34px;font-family:"JetBrains Mono",monospace;font-size:14px;color:var(--ink);}
+  .foot b{color:var(--orange-deep);}
+</style>
+</head>
+<body>
+  <img class="logo" src="sotr-logo.png" alt="Sats On The Road">
+  <div class="tag">Episode [00]</div>
+  <div class="eyebrow">Sats On The Road · Africa 2026</div>
+  <h1>[Country] <span class="b">/</span><br>[City]</h1>
+  <div class="loc">Driving Bitcoin across the African continent.</div>
+  <div class="road"></div>
+  <div class="foot">satsontheroad.africa &nbsp;·&nbsp; <b>⚡</b> teach · pay · onboard</div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Episode end card</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{--orange:#F7931A;--orange-deep:#C46B07;--ink:#0D0D0D;--paper:#F6EFE3;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1280px;height:720px;overflow:hidden;}
+  body{font-family:"Bricolage Grotesque",sans-serif;background:var(--ink);color:var(--paper);display:grid;grid-template-columns:1.3fr 1fr;align-items:center;padding:0 80px;gap:50px;position:relative;}
+  body::before{content:"";position:absolute;inset:0;background:radial-gradient(70% 90% at 18% 40%,rgba(247,147,26,.22),transparent 60%);}
+  .left{position:relative;z-index:1;}
+  .logo{height:120px;filter:drop-shadow(0 6px 24px rgba(0,0,0,.4));background:var(--paper);padding:14px 20px;border-radius:16px;}
+  h1{margin-top:28px;font-weight:800;font-size:60px;line-height:1;letter-spacing:-.02em;}
+  h1 .b{color:var(--orange);}
+  p{margin-top:18px;font-size:22px;color:rgba(246,239,227,.82);max-width:26ch;}
+  .site{margin-top:26px;font-family:"JetBrains Mono",monospace;font-size:18px;color:var(--orange);letter-spacing:.04em;}
+  .right{position:relative;z-index:1;display:flex;flex-direction:column;align-items:center;gap:18px;}
+  .qrbox{width:300px;height:300px;border-radius:20px;background:linear-gradient(45deg,#0d0d0d 25%,transparent 25%,transparent 75%,#0d0d0d 75%) 0 0/70px 70px,linear-gradient(45deg,#0d0d0d 25%,transparent 25%,transparent 75%,#0d0d0d 75%) 35px 35px/70px 70px,#fff;border:8px solid #fff;}
+  .right .cap{font-family:"JetBrains Mono",monospace;font-size:16px;letter-spacing:.1em;color:var(--paper);text-transform:uppercase;}
+  .right .cap b{color:var(--orange);}
+</style>
+</head>
+<body>
+  <div class="left">
+    <img class="logo" src="sotr-logo.png" alt="Sats On The Road">
+    <h1>Bring the truck <span class="b">to your town.</span></h1>
+    <p>Learn it in two days, teach it, and onboard your market.</p>
+    <div class="site">satsontheroad.africa</div>
+  </div>
+  <div class="right">
+    <div class="qrbox"></div>
+    <div class="cap"><b>⚡</b> Scan to join the waitlist</div>
+  </div>
+</body>
+</html>

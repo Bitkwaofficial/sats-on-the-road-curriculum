@@ -24,6 +24,14 @@ Where the logo is used:
 - **Field:** the vehicle wrap, banners, the merchant
   [signage](../merchant-kit), and the [join QR](../merchant-kit).
 
+Ready-made, on-brand cards live in [`brand/`](./brand) (editable HTML + PNG):
+
+- [`brand/title-card.html`](./brand/title-card.html) / [PNG](./brand/title-card.png), episode open (country / city).
+- [`brand/end-card.html`](./brand/end-card.html) / [PNG](./brand/end-card.png), close with the /join QR.
+- [`brand/lower-third.html`](./brand/lower-third.html) / [PNG](./brand/lower-third.png), name + role caption (transparent).
+
+Fill the `[ bracketed ]` placeholders, then screenshot or screen-record the card.
+
 Keep its clear space clean: do not stretch, recolour or crowd the logo. If you need
 other formats (SVG, transparent, monochrome), add them to this `brand/` folder.
 

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Sticker sheet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  @page{size:A4 portrait;margin:0;}
+  :root{--orange:#F7931A;--ink:#0D0D0D;--paper:#F6EFE3;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:210mm;height:297mm;}
+  body{font-family:"Bricolage Grotesque",sans-serif;background:var(--paper);padding:14mm;-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+  h3{font-family:"JetBrains Mono",monospace;font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink);text-align:center;margin-bottom:8mm;}
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12mm;}
+  .sticker{aspect-ratio:1;border:2px dashed #b9ad90;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;background:var(--ink);color:var(--paper);padding:8mm;}
+  .sticker .top{font-family:"JetBrains Mono",monospace;font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--orange);}
+  .sticker .big{font-weight:800;font-size:26px;line-height:1;margin:3mm 0;}
+  .sticker .big .b{color:var(--orange);}
+  .sticker .qr{width:28mm;height:28mm;border-radius:3mm;background:linear-gradient(45deg,#fff 25%,transparent 25%,transparent 75%,#fff 75%) 0 0/8mm 8mm,linear-gradient(45deg,#fff 25%,transparent 25%,transparent 75%,#fff 75%) 4mm 4mm/8mm 8mm,#0d0d0d;border:3px solid #fff;margin-top:2mm;opacity:.9;}
+  .sticker .site{margin-top:3mm;font-family:"JetBrains Mono",monospace;font-size:10px;color:rgba(246,239,227,.75);}
+</style>
+</head>
+<body>
+  <h3>Cut along the dashed circles · stick on the counter</h3>
+  <div class="grid" id="g"></div>
+  <script>
+    const g=document.getElementById('g');
+    for(let i=0;i<6;i++){g.insertAdjacentHTML('beforeend',
+      `<div class="sticker"><div class="top">We take Bitcoin ⚡</div><div class="big">₿ <span class="b">accepted</span></div><div class="qr"></div><div class="site">satsontheroad.africa</div></div>`);}
+  </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Lower third (overlay)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  /* Transparent canvas: render with a transparent background for overlay use. */
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1280px;height:720px;overflow:hidden;background:transparent;}
+  :root{--orange:#F7931A;--ink:#0D0D0D;--paper:#F6EFE3;}
+  .lt{position:absolute;left:70px;bottom:90px;display:flex;align-items:stretch;border-radius:14px;overflow:hidden;box-shadow:0 14px 40px rgba(0,0,0,.35);font-family:"Bricolage Grotesque",sans-serif;}
+  .accent{width:12px;background:var(--orange);}
+  .body{background:rgba(13,13,13,.92);padding:16px 26px 16px 20px;display:flex;flex-direction:column;justify-content:center;}
+  .name{color:var(--paper);font-weight:800;font-size:34px;line-height:1;letter-spacing:-.01em;}
+  .role{margin-top:7px;font-family:"JetBrains Mono",monospace;font-size:16px;letter-spacing:.08em;color:var(--orange);text-transform:uppercase;}
+  .logo{position:absolute;right:28px;bottom:26px;height:40px;background:var(--paper);padding:7px 11px;border-radius:9px;}
+</style>
+</head>
+<body>
+  <div class="lt">
+    <div class="accent"></div>
+    <div class="body">
+      <div class="name">[ Name ]</div>
+      <div class="role">[ Market trader · Lomé ]</div>
+    </div>
+  </div>
+  <img class="logo" src="sotr-logo.png" alt="Sats On The Road">
+</body>
+</html>
