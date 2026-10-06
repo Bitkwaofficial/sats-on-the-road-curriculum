@@ -87,7 +87,7 @@ Use these as practice prompts and prepare honest, short answers. Hand them out o
 Bitcoin itself is open software anyone can check, with no owner. Scams use Bitcoin's name, the same way scams use bank names. Teach people to spot the scam, not to fear the tool.
 
 **"Is it legal here?"**
-`[CONFIRM: legal status per country]`. Give the honest local answer and never guess. If unsure, say you will check and point them to the country lead.
+`[OWNER TO FILL: legal status per country]`. Give the honest local answer and never guess. If unsure, say you will check and point them to the country lead.
 
 **"Will I get rich?"**
 No promises. Bitcoin is a way to save and to send money, not a get-rich scheme. Its price can fall. Never predict a price.

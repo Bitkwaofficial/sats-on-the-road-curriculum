@@ -24,10 +24,14 @@ See also: [stipend and verification](./stipend-and-verification.md) ·
 
 ## The mission
 
-Our priority is reach plus safety. We especially want ambassadors who can help the
-people most exposed to financial censorship: **activists, journalists, and the
-groups that fund them**. Teaching a market trader to accept sats matters. Helping a
-reporter receive support that cannot be frozen matters too. Both are the mission.
+Ambassadors have one priority: reach the people most exposed to financial
+censorship, local activists, journalists and the groups that support them. Educate
+them. Help them set up a self-custodial wallet so they can receive support that
+cannot be frozen. This is why the program exists.
+
+Ambassadors also teach the public and onboard merchants, as everyone on the road
+does. But the stipend is weighted toward the mission: a verified activist or
+journalist onboarding pays eight times a general one.
 
 ## Who makes a good ambassador (selection criteria)
 
@@ -42,7 +46,7 @@ reporter receive support that cannot be frozen matters too. Both are the mission
   anyone's seed phrase is disqualified immediately.
 
 A local country lead nominates ambassadors; selection is confirmed with the SOTR
-team. Target `[CONFIRM: number]` ambassadors per town.
+team. Target about 8 ambassadors per country, 60 across Phase 1A.
 
 ## The two-day training
 
@@ -59,10 +63,10 @@ See the [curriculum](../curriculum) for every session.
 
 By becoming an ambassador you agree to:
 
-- Run at least `[CONFIRM: number]` sessions per month, or onboard at least
-  `[CONFIRM: number]` people and `[CONFIRM: number]` merchants per month.
+- Run at least **1 session** per month, or onboard at least **10 people and 1
+  merchant** per month.
 - Submit the [monthly report](./monthly-report-template.md) (ten lines, from a
-  phone) by the `[CONFIRM: day]` of each month.
+  phone) by the **5th** of each month.
 - Join the monthly call (below).
 - Follow the [code of conduct](./code-of-conduct.md) and the
   [safety](../safety) rules.
@@ -81,10 +85,9 @@ circulated, one thing that worked, one problem. See the
 
 ## The monthly call
 
-A `[CONFIRM: length]` group call on `[CONFIRM: schedule, e.g. the first Saturday]`.
-We share wins, solve problems together, agree what to fix in the curriculum, and
-confirm the month's stipends. Missing calls without notice counts against the
-commitment.
+A 60-minute group call on the first Saturday of the month at 18:00 WAT. We share
+wins, solve problems together, agree what to fix in the curriculum, and confirm the
+month's stipends. Missing calls without notice counts against the commitment.
 
 ## What gets you removed
 
@@ -93,7 +96,7 @@ commitment.
 - Mishandling people's safety, privacy or consent (for example, filming without
   consent, or exposing an activist's funds).
 - Taking a stipend for work that did not happen (false reporting).
-- Repeatedly going silent: no reports and no calls for `[CONFIRM: number]` months.
+- Repeatedly going silent: no reports and no calls for 2 months.
 - Any breach of the [code of conduct](./code-of-conduct.md).
 
 Removal means losing the stipend and the ambassador badge. Serious safety breaches

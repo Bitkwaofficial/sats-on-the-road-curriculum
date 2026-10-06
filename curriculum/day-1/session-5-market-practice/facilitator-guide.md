@@ -12,10 +12,10 @@
 
 **Materials:**
 - Each learner's phone and funded wallet from Sessions 3 and 4.
-- A merchant, or a few merchants, who accept sats. Arrange this before the session. [CONFIRM: which merchant(s), location, and that they are ready.]
+- A merchant, or a few merchants, who accept sats. Arrange this before the session. [OWNER TO FILL: which merchant(s), location, and that they are ready.]
 - A backup plan if signal is weak: a facilitator acting as a stand-in merchant.
 - Printed checklist from `exercise.md`, one per learner or per pair.
-- Optional: a list of nearby merchants from BTCMap.org for the area. [CONFIRM: what is listed locally.]
+- Optional: a list of nearby merchants from BTCMap.org for the area. [OWNER TO FILL: what is listed locally.]
 
 **Diploma source:** BitKwa Bitcoin Diploma, Chapter 4 (spending Bitcoin, finding merchants, circular economies). This session is mostly practical and field-based.
 
@@ -23,9 +23,9 @@
 
 ## Before the session
 - Visit or call the merchant ahead of time. Make sure they can accept a Lightning payment and show a QR code or invoice.
-- Agree small prices so every learner can take part. [CONFIRM: items and prices in sats or `[local currency]`.]
+- Agree small prices so every learner can take part. [OWNER TO FILL: items and prices in sats or `[local currency]`.]
 - Check the signal at the location. If it is weak, plan to use the facilitator stand-in merchant indoors.
-- Make sure every wallet has enough sats to buy one small item. [CONFIRM: top-up plan.]
+- Make sure every wallet has enough sats to buy one small item. [OWNER TO FILL: top-up plan.]
 
 ---
 
@@ -43,7 +43,7 @@ Talking points:
 ### 8 to 15, Finding merchants and what to expect (7 min)
 Talking points:
 - Many merchants show a QR code at the till. Some use a simple wallet on their own phone.
-- To find merchants in any area, BTCMap.org is an open map where shops that accept Bitcoin list themselves. [CONFIRM: what is listed near you.]
+- To find merchants in any area, BTCMap.org is an open map where shops that accept Bitcoin list themselves. [OWNER TO FILL: what is listed near you.]
 - Across the Sats On The Road journey, partners work with a growing network of local merchants. A pilot session was run in Lomé, Togo.
 - If a merchant is unsure, help them gently, or use the facilitator stand-in.
 
@@ -60,7 +60,7 @@ Facilitator role:
 Weave these fixes in during the run, and gather briefly to go over any that happened.
 
 Common problems and fixes:
-- **No signal or slow data:** move to a spot with better signal, switch between wifi and mobile data, or wait a moment and retry. If it stays weak, use the stand-in merchant. For areas with no smartphone data at all, mention that USSD options like Machankura exist. [CONFIRM availability.]
+- **No signal or slow data:** move to a spot with better signal, switch between wifi and mobile data, or wait a moment and retry. If it stays weak, use the stand-in merchant. For areas with no smartphone data at all, mention that USSD options like Machankura exist. [OWNER TO FILL availability.]
 - **Wrong amount shown:** stop before confirming. Ask the merchant to make a fresh invoice for the correct amount. Never confirm an amount you are unsure about.
 - **Payment failed:** the sats stay with you. Try again, or ask the merchant for a new invoice. A failed payment is not a lost payment.
 - **Payment says sent but merchant is unsure:** show the merchant the "sent" screen, and have the merchant refresh their wallet. Lightning usually confirms in seconds.
@@ -93,7 +93,7 @@ Agree the price in `[local currency]` first, then let the wallet show the matchi
 You are paying for a real item you receive in return. Check the amount, confirm, and keep your phone secure, just like with cash.
 
 **"What if I run out of sats?"**
-Only buy small items today. If you run low, your facilitator can guide you. Day 2 covers topping up and cashing out options for your area. [CONFIRM per country.]
+Only buy small items today. If you run low, your facilitator can guide you. Day 2 covers topping up and cashing out options for your area. [OWNER TO FILL per country.]
 
 **"Can I get a refund if something goes wrong?"**
 Bitcoin payments cannot be reversed, so settle refunds directly with the merchant, the same way you would with cash. This is why you always check before confirming.

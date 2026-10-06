@@ -50,7 +50,7 @@ found them, never worse.
 ## Reporting a problem
 
 If someone breaks this code, tell your country lead or the SOTR team at
-`[CONFIRM: contact email]`. Reports are taken seriously and handled discreetly.
+`[OWNER TO FILL: contact email]`. Reports are taken seriously and handled discreetly.
 Serious safety breaches lead to immediate removal.
 
 ## For contributors to this repository

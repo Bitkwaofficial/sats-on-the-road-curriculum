@@ -110,7 +110,7 @@ Sats On The Road
 - Prices rise, savings shrink
 - Ask: what did bread or transport cost years ago?
 
-<!-- notes: [CONFIRM: a local price example the country lead fills in]. Keep it honest, no predictions. -->
+<!-- notes: [OWNER TO FILL: a local price example the country lead fills in]. Keep it honest, no predictions. -->
 
 ---
 

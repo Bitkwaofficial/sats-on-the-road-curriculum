@@ -41,9 +41,9 @@ Answer out loud or in writing:
 3. Where in your daily life would you use this again?
 
 ## Facilitator checklist
-- [ ] A merchant is arranged and ready. [CONFIRM.]
-- [ ] Prices are small so everyone can take part. [CONFIRM.]
-- [ ] Every wallet is funded. [CONFIRM.]
+- [ ] A merchant is arranged and ready. [OWNER TO FILL.]
+- [ ] Prices are small so everyone can take part. [OWNER TO FILL.]
+- [ ] Every wallet is funded. [OWNER TO FILL.]
 - [ ] A stand-in merchant is ready in case signal is weak.
 - [ ] The queue is kept orderly so the merchant is not overwhelmed.
 - [ ] Everyone made at least one real payment before the reflection circle.

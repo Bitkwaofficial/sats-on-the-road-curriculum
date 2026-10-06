@@ -66,7 +66,7 @@ Seed phrase and your first sats
 - Machankura: Lightning over USSD, no smartphone needed
 - Hardware wallets: for savings
 
-<!-- notes: [CONFIRM availability per country]. Today we all use [primary wallet]. -->
+<!-- notes: [OWNER TO FILL availability per country]. Today we all use [primary wallet]. -->
 
 ---
 
@@ -119,7 +119,7 @@ Seed phrase and your first sats
 - Your address is safe to share
 - Watch the balance update
 
-<!-- notes: Send each learner a small amount. [CONFIRM amount and funding source]. -->
+<!-- notes: Send each learner a small amount. [OWNER TO FILL amount and funding source]. -->
 
 ---
 

@@ -39,7 +39,7 @@ value that cannot be.
 **10-20, Money, power and rights.**
 Walk through how financial control becomes political control: account freezes,
 de-banking under vague rules, transaction censorship, surveillance. Keep it
-concrete and local. `[CONFIRM: a local example if one exists]`
+concrete and local. `[OWNER TO FILL: a local example if one exists]`
 
 **20-35, The one key idea: pseudonymous, not anonymous.**
 Explain the public blockchain: every on-chain payment is permanent and visible;

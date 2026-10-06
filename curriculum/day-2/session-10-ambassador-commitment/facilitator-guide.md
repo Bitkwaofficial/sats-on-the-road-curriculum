@@ -23,7 +23,7 @@ By the end of this session, each ambassador can:
 - Projector for `slides.md`.
 - Printed copies of the [ambassador playbook](../../../playbook/ambassador-playbook.md) and the monthly report template.
 - The "What next" handout for this session, printed per person.
-- A sign-up sheet or the commitment form `[CONFIRM: commitment form location]`.
+- A sign-up sheet or the commitment form `[OWNER TO FILL: commitment form location]`.
 
 ## Before you start
 
@@ -37,13 +37,13 @@ This is the last session of the two days. It is where interest turns into respon
 An ambassador keeps the work going after the vehicle leaves: teaching sessions, onboarding merchants, and supporting their community. It is a role of trust, not a job title. Set the honest frame for the next 40 minutes.
 
 ### 4–13 min, Targets (9)
-Walk the targets an ambassador is expected to hit, for example sessions run, people onboarded, and merchants signed up per month: `[CONFIRM: targets, e.g. sessions per month, people onboarded, merchants onboarded]`. Explain that targets are a shared promise, not a trap: they exist so the whole trip can see progress and support slow stops. Point to the playbook for the exact numbers.
+Walk the targets an ambassador is expected to hit, for example sessions run, people onboarded, and merchants signed up per month: `[OWNER TO FILL: targets, e.g. sessions per month, people onboarded, merchants onboarded]`. Explain that targets are a shared promise, not a trap: they exist so the whole trip can see progress and support slow stops. Point to the playbook for the exact numbers.
 
 ### 13–21 min, The monthly report and the monthly call (8)
-Show the monthly report template field by field: what you did, how many people and merchants, what worked, what was hard, and what you need. It is due `[CONFIRM: monthly report due date]`. Then the monthly call: a short group call on `[CONFIRM: monthly call day and time]` where ambassadors share wins, problems, and questions. Both are how the network learns and how support reaches you.
+Show the monthly report template field by field: what you did, how many people and merchants, what worked, what was hard, and what you need. It is due `[OWNER TO FILL: monthly report due date]`. Then the monthly call: a short group call on `[OWNER TO FILL: monthly call day and time]` where ambassadors share wins, problems, and questions. Both are how the network learns and how support reaches you.
 
 ### 21–29 min, Stipend rules in brief (8)
-Keep this honest and simple. There may be a stipend of `[CONFIRM: stipend amount and currency]`, paid `[CONFIRM: payment schedule, e.g. monthly]`, and it follows the work: reporting and real activity are required to receive it. It is a support for costs, not a salary, and it can pause if the work pauses. The full rules and how payment is verified are in the playbook. Do not invent any amount; use the placeholder until the country lead confirms.
+Keep this honest and simple. There may be a stipend of `[OWNER TO FILL: stipend amount and currency]`, paid `[OWNER TO FILL: payment schedule, e.g. monthly]`, and it follows the work: reporting and real activity are required to receive it. It is a support for costs, not a salary, and it can pause if the work pauses. The full rules and how payment is verified are in the playbook. Do not invent any amount; use the placeholder until the country lead confirms.
 
 ### 29–37 min, What gets you removed, and the code of conduct (8)
 Be direct about the lines that matter:
@@ -54,10 +54,10 @@ Be direct about the lines that matter:
 Then walk the code of conduct in the playbook: honesty, respect, safety, and protecting the people you teach, including activists and journalists. Breaking the serious lines means removal from the programme.
 
 ### 37–43 min, Take the commitment, and what next (6)
-Give space to decide. Those ready can sign `[CONFIRM: commitment form location]`. Hand out the "What next" note and point to the paths for going deeper: the BitKwa Bitcoin Diploma, the PlanB Network, and My First Bitcoin. Remind everyone that a thoughtful "not yet" is welcome.
+Give space to decide. Those ready can sign `[OWNER TO FILL: commitment form location]`. Hand out the "What next" note and point to the paths for going deeper: the BitKwa Bitcoin Diploma, the PlanB Network, and My First Bitcoin. Remind everyone that a thoughtful "not yet" is welcome.
 
 ### 43–45 min, Wrap (2)
-Thank them for two days of work. Point to the quiz for the badge, and confirm the date of the first monthly call. `[CONFIRM: first monthly call date]`.
+Thank them for two days of work. Point to the quiz for the badge, and confirm the date of the first monthly call. `[OWNER TO FILL: first monthly call date]`.
 
 **Total: 45 minutes.**
 
@@ -74,16 +74,16 @@ Thank them for two days of work. Point to the quiz for the badge, and confirm th
 ## Common questions
 
 **"What if I cannot hit the targets some months?"**
-Report honestly and say what got in the way. The targets guide support, and the monthly call is where you ask for help. `[CONFIRM: how missed targets are handled]`.
+Report honestly and say what got in the way. The targets guide support, and the monthly call is where you ask for help. `[OWNER TO FILL: how missed targets are handled]`.
 
 **"How and when do I get the stipend?"**
-`[CONFIRM: stipend amount, currency, schedule, and verification]`. It is tied to reporting and real activity. The playbook has the detail.
+`[OWNER TO FILL: stipend amount, currency, schedule, and verification]`. It is tied to reporting and real activity. The playbook has the detail.
 
 **"Can I be an ambassador without the stipend?"**
-`[CONFIRM: whether unpaid ambassadors are supported]`. Many people contribute for the mission; ask your country lead.
+`[OWNER TO FILL: whether unpaid ambassadors are supported]`. Many people contribute for the mission; ask your country lead.
 
 **"What exactly gets me removed?"**
 The serious lines: taking seed phrases or funds, promising profits, running or covering scams, harassment, and dishonest reporting. The full list is in the code of conduct.
 
 **"I am not ready to commit today."**
-That is fine. Keep teaching informally, come to a monthly call as a guest if allowed, and commit when you are ready. `[CONFIRM: how to join later]`.
+That is fine. Keep teaching informally, come to a monthly call as a guest if allowed, and commit when you are ready. `[OWNER TO FILL: how to join later]`.

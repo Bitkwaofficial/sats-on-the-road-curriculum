@@ -14,7 +14,9 @@ before each leg (see [`../translations`](../translations)).
 ## English
 
 **What this is.** Sats On The Road is a free Bitcoin education trip by BitKwa. We
-sometimes film and photograph our sessions to share the story and teach others.
+film and photograph our training sessions, the market exercises and short
+interviews to tell the story and teach others. Anything we publish is released
+under a Creative Commons CC BY 4.0 licence, so others may reuse it with credit.
 
 **Your choice.** You do not have to be filmed to take part in the training. Taking
 part does not depend on this.
@@ -26,8 +28,9 @@ Please tick:
 - [ ] Audio only, do not show me.
 - [ ] No, please do not film or photograph me.
 
-**You can change your mind.** If you later want your image removed, contact us and
-we will remove it from material we control. Email: `[CONFIRM: contact email]`.
+**You can change your mind.** You can withdraw at any time before we publish, and
+we will leave you out. If material is already published, contact us and we will
+remove it from anything we control. Email: `[OWNER TO FILL: contact email]`.
 
 **We will not** film your wallet screen, seed phrase, balance or anything that
 could put your money or safety at risk.
@@ -43,8 +46,10 @@ For a child under 18, a parent or guardian signs: ________________________
 ## Français
 
 **De quoi s'agit-il.** Sats On The Road est un voyage gratuit d'éducation au
-Bitcoin, organisé par BitKwa. Nous filmons et photographions parfois nos sessions
-pour partager l'histoire et enseigner à d'autres.
+Bitcoin, organisé par BitKwa. Nous filmons et photographions nos formations, les
+exercices au marché et de courtes interviews pour partager l'histoire et enseigner
+à d'autres. Ce que nous publions est diffusé sous licence Creative Commons CC BY
+4.0, afin que d'autres puissent le réutiliser en citant la source.
 
 **Votre choix.** Vous n'êtes pas obligé d'être filmé pour participer à la
 formation. La participation n'en dépend pas.
@@ -56,9 +61,10 @@ Veuillez cocher :
 - [ ] Audio seulement, ne me montrez pas.
 - [ ] Non, ne me filmez pas et ne me photographiez pas.
 
-**Vous pouvez changer d'avis.** Si vous souhaitez plus tard retirer votre image,
-contactez-nous et nous la retirerons des supports que nous contrôlons.
-Courriel : `[CONFIRM: contact email]`.
+**Vous pouvez changer d'avis.** Vous pouvez vous retirer à tout moment avant la
+publication, et nous ne vous montrerons pas. Si un support est déjà publié,
+contactez-nous et nous le retirerons de ce que nous contrôlons.
+Courriel : `[OWNER TO FILL: contact email]`.
 
 **Nous ne filmerons pas** l'écran de votre portefeuille, votre phrase de
 récupération, votre solde, ni rien qui pourrait mettre en danger votre argent ou
@@ -77,11 +83,22 @@ ________________________
 
 Read this aloud, in the local language, and record the person's spoken answer.
 
-> "We are filming a free Bitcoin lesson. May we include you in the video? You do
-> not have to say yes, and you can still join the lesson either way. We can also
-> blur your face so no one recognises you. Would you like: to be shown, to have
-> your face blurred, or not to be filmed? You can change your mind later and we
-> will take it out."
+**English**
+
+> "We are filming a free Bitcoin lesson and would like to include you in the
+> video, which we may publish for others to reuse with credit. You do not have to
+> say yes, you can still join the lesson, and we can blur your face so no one
+> recognises you. You can change your mind at any time before we publish, and we
+> will leave you out."
+
+**Français**
+
+> « Nous filmons une leçon gratuite sur le Bitcoin et aimerions vous inclure dans
+> la vidéo, que nous pourrions publier pour que d'autres la réutilisent en citant
+> la source. Vous n'êtes pas obligé d'accepter, vous pouvez quand même suivre la
+> leçon, et nous pouvons flouter votre visage pour que personne ne vous
+> reconnaisse. Vous pouvez changer d'avis à tout moment avant la publication, et
+> nous ne vous montrerons pas. »
 
 Record: name or "declined to give name", town, and the choice they made.
 

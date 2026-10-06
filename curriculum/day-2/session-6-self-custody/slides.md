@@ -132,7 +132,7 @@ Separate spending from savings.
 
 Same rules: back up the seed, test the recovery.
 
-<!-- notes: [CONFIRM: whether a specific hardware wallet is recommended per country] -->
+<!-- notes: [OWNER TO FILL: whether a specific hardware wallet is recommended per country] -->
 
 ---
 

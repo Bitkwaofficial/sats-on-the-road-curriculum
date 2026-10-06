@@ -14,7 +14,7 @@ Work through this with the facilitator. Tick each box as you finish it. Do not s
 - [ ] I opened the app and chose "Create a new wallet."
 - [ ] I set a PIN or passcode for the app, if offered.
 
-Feature-phone users: follow the USSD steps your facilitator gives instead. [CONFIRM: the exact steps for your country.]
+Feature-phone users: follow the USSD steps your facilitator gives instead. [OWNER TO FILL: the exact steps for your country.]
 
 ## Part B: Write down and protect your seed phrase
 This is the most important part. Take your time.
@@ -30,7 +30,7 @@ Stop and check: is your seed phrase on paper, correct and in order? Do not move 
 
 ## Part C: Receive your first sats
 - [ ] I tapped "Receive" and showed my QR code or address.
-- [ ] My facilitator sent me some sats. [CONFIRM amount per learner.]
+- [ ] My facilitator sent me some sats. [OWNER TO FILL amount per learner.]
 - [ ] I watched my balance update.
 
 ## Part D: Send sats to a partner

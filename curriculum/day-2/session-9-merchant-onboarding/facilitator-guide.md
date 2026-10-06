@@ -58,7 +58,7 @@ Many small merchants will start with an easy Lightning wallet; be clear about cu
 Make a small real payment from the customer phone to the merchant. Let the merchant watch their own screen. The moment they see it land is the moment they believe. Then show them how to read the amount in `[local currency]`.
 
 ### 32–40 min, Confirm it arrived and cash out (8)
-Show the merchant where confirmed payments appear in the wallet history, so they can check any sale later without you. Then walk cash-out honestly: options may include `[CONFIRM per country: e.g. Vexl P2P, Banxaas, BitSpenda, Machankura]`. Explain each only where it actually works locally, and never promise a rate.
+Show the merchant where confirmed payments appear in the wallet history, so they can check any sale later without you. Then walk cash-out honestly: options may include `[OWNER TO FILL per country: e.g. Vexl P2P, Banxaas, BitSpenda, Machankura]`. Explain each only where it actually works locally, and never promise a rate.
 
 ### 40–45 min, Leave the signage and follow up (5)
 Place the "Bitcoin accepted here" sign and the QR stand where customers will see them. Add the merchant to the stop's record. Agree a simple follow-up: a message or a return visit to answer questions and check the first customer sales.
@@ -87,7 +87,7 @@ One takeaway each. Point to the quiz for the badge and to the merchant kit for t
 You can cash out to `[local currency]` the same day if you prefer, so you hold Bitcoin only as long as you choose. Never promise a price direction.
 
 **"Is this legal for my business?"**
-`[CONFIRM: legal and tax status per country]`. Give the honest local answer and point to the country lead if unsure.
+`[OWNER TO FILL: legal and tax status per country]`. Give the honest local answer and point to the country lead if unsure.
 
 **"What are the fees?"**
 Lightning fees are usually very small. Show the real fee on a test payment rather than quoting a number.
@@ -96,7 +96,7 @@ Lightning fees are usually very small. Show the real fee on a test payment rathe
 Check the wallet history together. A confirmed payment shows there. If it is not confirmed, it did not arrive, so wait or ask them to try again.
 
 **"I don't have a smartphone."**
-`[CONFIRM: feature-phone options such as Machankura per country]`. Note it and bring the right option next visit.
+`[OWNER TO FILL: feature-phone options such as Machankura per country]`. Note it and bring the right option next visit.
 
 **"How do I turn sats into cash?"**
-Show the cash-out options that actually work here, `[CONFIRM per country]`, and walk one of them end to end if time allows.
+Show the cash-out options that actually work here, `[OWNER TO FILL per country]`, and walk one of them end to end if time allows.

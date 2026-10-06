@@ -93,7 +93,7 @@ Now they can check any sale without you.
 
 Options where they work locally:
 
-[CONFIRM per country: e.g. Vexl, Banxaas, BitSpenda, Machankura]
+[OWNER TO FILL per country: e.g. Vexl, Banxaas, BitSpenda, Machankura]
 
 Never promise a rate.
 

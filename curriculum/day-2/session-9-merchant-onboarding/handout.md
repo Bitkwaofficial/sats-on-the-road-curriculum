@@ -10,7 +10,7 @@ Keep this with you at the stall. Be quick, be honest, and leave the merchant abl
 2. **Set up receiving.** Install the wallet from the official source, help them create and back up a seed phrase (they keep it), and find the Lightning address or Receive QR.
 3. **Do a test payment.** Send a small real payment and let them watch it land on their own screen.
 4. **Check it arrived.** Show them the wallet history so they can confirm any sale later without you.
-5. **Show cash-out.** Walk the options that actually work here: `[CONFIRM per country]`. Never promise a rate.
+5. **Show cash-out.** Walk the options that actually work here: `[OWNER TO FILL per country]`. Never promise a rate.
 6. **Leave the signage.** Place the "Bitcoin accepted here" sign and QR stand, record the merchant, and agree a follow-up.
 
 ## The one-minute pitch
@@ -28,7 +28,7 @@ Keep this with you at the stall. Be quick, be honest, and leave the merchant abl
 ## If they say...
 
 - *"Will I lose money if the price drops?"* You can cash out the same day; you hold Bitcoin only as long as you choose.
-- *"Is this legal for my business?"* `[CONFIRM: legal and tax status per country]`. Give the honest local answer.
+- *"Is this legal for my business?"* `[OWNER TO FILL: legal and tax status per country]`. Give the honest local answer.
 - *"A customer says they paid but I did not get it."* Check the history together. No confirmation means it did not arrive.
 
 ---

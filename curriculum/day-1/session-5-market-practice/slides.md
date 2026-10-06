@@ -57,7 +57,7 @@ Buy something real in sats
 - BTCMap.org lists shops that accept Bitcoin
 - A pilot session was run in Lomé, Togo
 
-<!-- notes: [CONFIRM what is listed near you]. Partners work with a growing merchant network. -->
+<!-- notes: [OWNER TO FILL what is listed near you]. Partners work with a growing merchant network. -->
 
 ---
 
@@ -68,7 +68,7 @@ Buy something real in sats
 - Wait and retry
 - Use the stand-in merchant if needed
 
-<!-- notes: USSD options like Machankura exist where there is no smartphone data. [CONFIRM]. -->
+<!-- notes: USSD options like Machankura exist where there is no smartphone data. [OWNER TO FILL]. -->
 
 ---
 
