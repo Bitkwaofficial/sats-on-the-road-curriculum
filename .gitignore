@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Node (only used for rendering slides via Marp; see tools/build-slides.md)
+node_modules/
+npm-debug.log*
+
+# Rendered slide output (optional; render on demand, see tools/build-slides.md)
+# Uncomment the next line if you do NOT want to commit generated PDFs:
+# **/slides.pdf
+**/slides.html
+
+# Local drafts / scratch
+*.tmp
+/scratch/

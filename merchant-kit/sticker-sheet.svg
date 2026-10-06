@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Export to PDF via a browser: open the SVG and Print > Save as PDF (A4). -->
+<!-- A4 portrait sticker sheet (210x297mm): 8 round "Bitcoin accepted" stickers. -->
+<!-- Dashed circles are cut guides. Paste a payment QR into each box before cutting. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 2100 2970" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <g id="sticker">
+      <!-- cut guide -->
+      <circle cx="0" cy="0" r="345" fill="none" stroke="#8A8172" stroke-width="2" stroke-dasharray="14 12"/>
+      <!-- sticker body -->
+      <circle cx="0" cy="0" r="330" fill="#F7931A"/>
+      <circle cx="0" cy="0" r="300" fill="#F6EFE3"/>
+      <!-- heading -->
+      <text x="0" y="-190" text-anchor="middle" font-size="46" font-weight="bold" fill="#0D0D0D">BITCOIN ACCEPTED</text>
+      <text x="0" y="-130" text-anchor="middle" font-size="44" font-weight="bold" fill="#F7931A">&#9889; Lightning</text>
+      <!-- QR placeholder -->
+      <rect x="-120" y="-90" width="240" height="240" fill="#FFFFFF" stroke="#0D0D0D" stroke-width="4"/>
+      <line x1="-120" y1="-90" x2="120" y2="150" stroke="#CFC6B6" stroke-width="2"/>
+      <line x1="120" y1="-90" x2="-120" y2="150" stroke="#CFC6B6" stroke-width="2"/>
+      <text x="0" y="45" text-anchor="middle" font-size="60" font-weight="bold" fill="#0D0D0D" letter-spacing="4">QR</text>
+      <!-- footer -->
+      <text x="0" y="230" text-anchor="middle" font-size="38" fill="#0D0D0D">satsontheroad.africa</text>
+    </g>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="2100" height="2970" fill="#F6EFE3"/>
+
+  <!-- Title bar -->
+  <text x="1050" y="110" text-anchor="middle" font-size="55" font-weight="bold" fill="#0D0D0D">&#8383; Sats On The Road stickers</text>
+  <text x="1050" y="165" text-anchor="middle" font-size="36" fill="#8A8172">Paste your QR into each box, then cut along the dashed lines</text>
+
+  <!-- Grid of 8 (2 columns x 4 rows) -->
+  <use href="#sticker" transform="translate(560 530)"/>
+  <use href="#sticker" transform="translate(1540 530)"/>
+  <use href="#sticker" transform="translate(560 1230)"/>
+  <use href="#sticker" transform="translate(1540 1230)"/>
+  <use href="#sticker" transform="translate(560 1930)"/>
+  <use href="#sticker" transform="translate(1540 1930)"/>
+  <use href="#sticker" transform="translate(560 2630)"/>
+  <use href="#sticker" transform="translate(1540 2630)"/>
+</svg>

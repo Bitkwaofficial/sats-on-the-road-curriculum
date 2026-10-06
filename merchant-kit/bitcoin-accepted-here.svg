@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Export to PDF via a browser: open the SVG and Print > Save as PDF (A4). -->
+<!-- A4 portrait poster, 210x297mm. Sats On The Road merchant kit. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 2100 2970" font-family="Helvetica, Arial, sans-serif">
+  <!-- Background -->
+  <rect x="0" y="0" width="2100" height="2970" fill="#F6EFE3"/>
+
+  <!-- Outer frame -->
+  <rect x="70" y="70" width="1960" height="2830" fill="none" stroke="#0D0D0D" stroke-width="10"/>
+
+  <!-- Top accent bar -->
+  <rect x="70" y="70" width="1960" height="220" fill="#F7931A"/>
+  <text x="1050" y="210" text-anchor="middle" font-size="110" font-weight="bold" fill="#0D0D0D" letter-spacing="4">SATS ON THE ROAD</text>
+
+  <!-- Bitcoin mark -->
+  <circle cx="1050" cy="520" r="150" fill="#F7931A"/>
+  <text x="1050" y="585" text-anchor="middle" font-size="220" font-weight="bold" fill="#F6EFE3">&#8383;</text>
+
+  <!-- Heading -->
+  <text x="1050" y="840" text-anchor="middle" font-size="150" font-weight="bold" fill="#0D0D0D">BITCOIN</text>
+  <text x="1050" y="1000" text-anchor="middle" font-size="150" font-weight="bold" fill="#0D0D0D">ACCEPTED HERE</text>
+
+  <!-- Lightning line -->
+  <text x="1050" y="1140" text-anchor="middle" font-size="80" fill="#F7931A" font-weight="bold">&#9889; Pay with Lightning, fast and low cost</text>
+
+  <!-- QR placeholder box -->
+  <rect x="650" y="1280" width="800" height="800" fill="#FFFFFF" stroke="#0D0D0D" stroke-width="8"/>
+  <line x1="650" y1="1280" x2="1450" y2="2080" stroke="#CFC6B6" stroke-width="4"/>
+  <line x1="1450" y1="1280" x2="650" y2="2080" stroke="#CFC6B6" stroke-width="4"/>
+  <rect x="770" y="1600" width="560" height="160" fill="#F6EFE3" stroke="#0D0D0D" stroke-width="4"/>
+  <text x="1050" y="1710" text-anchor="middle" font-size="110" font-weight="bold" fill="#0D0D0D" letter-spacing="8">QR</text>
+  <text x="1050" y="2180" text-anchor="middle" font-size="55" fill="#0D0D0D">Paste your own payment QR in this box</text>
+
+  <!-- Shop name line -->
+  <text x="300" y="2400" font-size="60" fill="#0D0D0D">Shop name:</text>
+  <line x1="700" y1="2410" x2="1800" y2="2410" stroke="#0D0D0D" stroke-width="5"/>
+
+  <!-- Local language translation line -->
+  <text x="300" y="2560" font-size="60" fill="#0D0D0D">In our language:</text>
+  <line x1="700" y1="2570" x2="1800" y2="2570" stroke="#0D0D0D" stroke-width="5"/>
+  <text x="700" y="2630" font-size="42" fill="#8A8172">[ write "Bitcoin accepted here" in the local language ]</text>
+
+  <!-- Footer -->
+  <rect x="70" y="2770" width="1960" height="130" fill="#0D0D0D"/>
+  <text x="1050" y="2855" text-anchor="middle" font-size="60" fill="#F6EFE3">satsontheroad.africa</text>
+</svg>

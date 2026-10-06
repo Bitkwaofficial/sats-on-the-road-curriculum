@@ -1,0 +1,53 @@
+<p align="center"><img src="brand/sotr-logo.png" alt="Sats On The Road" width="300"></p>
+
+# Media
+
+Footage, episodes, music and brand files for *Sats On The Road*, and how to credit
+them when you reuse them. All teaching material and media in this repository is
+licensed [CC BY 4.0](../LICENSE-CONTENT.md), so you are free to share and adapt it,
+as long as you keep the credit.
+
+## Footage archive
+
+The raw and edited footage lives in a public archive so anyone can reuse it.
+
+- **Footage archive:** [CONFIRM: Internet Archive URL]
+
+## Episodes
+
+Each country stop becomes a short episode. Build each one from the
+[shot list](./shot-list.md) and the [episode template](./episode-template.md) so
+they share the same shape.
+
+- Episode list and links: [CONFIRM: playlist or page URL]
+
+## Soundtrack ♪
+
+The music is the original soundtrack made for the trip.
+
+- **Sats On The Road Vol 1** on Audiomack: [CONFIRM: Audiomack URL]
+
+## How to credit (CC BY)
+
+When you use any footage, photo, episode or track from this project, include this
+exact credit line:
+
+> Adapted from the *Sats On The Road* field curriculum (satsontheroad.africa),
+> itself built on the BitKwa Bitcoin Diploma. CC BY 4.0.
+
+For the music, add the track and album, for example:
+
+> Music: "[CONFIRM: track title]" from *Sats On The Road Vol 1* (Audiomack),
+> CC BY 4.0.
+
+Link back to this license when you can, and say if you changed anything. See
+[`LICENSE-CONTENT.md`](../LICENSE-CONTENT.md) and
+[`ATTRIBUTION.md`](../ATTRIBUTION.md) for the full terms and lineage.
+
+## Faces and consent (required)
+
+Do not publish anyone's face without their consent. Before you film or photograph
+a person, collect consent, and blur the faces of anyone who did not give it. This
+protects ordinary people, and especially activists and journalists who may be at
+risk. The rule and the form are in
+[`../safety/consent-form.md`](../safety/consent-form.md).
