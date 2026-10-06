@@ -44,6 +44,14 @@ thing takes about 15 to 20 minutes. Go at the merchant's pace and keep it calm.
 - [ ] Put a sticker on the door or counter.
 - [ ] Write the shop name, and the local-language line, on the poster.
 
+## Make the first real sale
+
+- [ ] You, the ambassador, buy something small and real from the merchant now.
+- [ ] Pay for it in sats from your own wallet to the merchant's QR, at the real price.
+- [ ] Have the merchant confirm the sats arrived and the balance went up.
+- [ ] Point out that the sats are now theirs, in their own wallet, with no one in between.
+- [ ] This first real payment is the goal of the visit. Do not skip it.
+
 ## Record it
 
 - [ ] Note the shop name, town, date, and wallet used.
