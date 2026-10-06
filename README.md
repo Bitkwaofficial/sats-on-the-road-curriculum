@@ -4,7 +4,7 @@
 
 <h1 align="center">Sats On The Road, Field Curriculum</h1>
 
-<p align="center"><em>Driving Bitcoin across the African continent.</em></p>
+<p align="center"><em>Bringing self-custody Bitcoin to everyday Africans, country by country.</em></p>
 
 <p align="center">
   <a href="https://satsontheroad.africa">Website</a> ·
@@ -16,16 +16,21 @@
 
 ---
 
-**Sats On The Road** is a grassroots Bitcoin road trip across Africa, run by
-BitKwa. A wrapped vehicle drives from town to town teaching people to hold their
-own Bitcoin, use it over the Lightning Network, and spend it with real merchants.
-So far the trip has run out of its base in **Nigeria** through **Benin, Togo and
-Burkina Faso** (3 countries), covering roughly **[CONFIRM: km] km** and onboarding
-**[CONFIRM: number] people** and **[CONFIRM: number] merchants** (see the
-[live dashboard](./data/dashboard.csv)).
-**Phase 1A** takes the trip through **[CONFIRM: Ghana, Benin, Togo, Burkina Faso,
-Côte d'Ivoire, Liberia, Sierra Leone]** between **[CONFIRM: start month]** and
-**[CONFIRM: end month] 2026**.
+**Sats On The Road Africa** is a grassroots Bitcoin education movement run by
+BitKwa. In each country we fly in, rent and brand a local vehicle, and drive to
+markets, schools and villages to teach people to hold their own Bitcoin, use it
+over Lightning, and spend it with real merchants. We train local ambassadors who
+keep teaching after we leave, and we release everything open source.
+
+The 2026 pilot was one person and one car through Benin, Togo and Burkina Faso:
+**3,000+ km**, **1,000+ people** onboarded to self-custodial wallets, **22 local
+educators** trained, **20+ merchants** accepting Lightning (see the
+[live dashboard](./data/dashboard.csv)). The pilot taught us that borders, fuel
+gaps and breakdowns cost more than flights, so Phase 1A flies between countries.
+
+**Phase 1A** (1 January – 30 April 2027) revisits Nigeria, Benin, Togo and Burkina
+Faso and adds Ghana, Côte d'Ivoire, Liberia and Sierra Leone. **Phase 1B** (1 July
+– 30 October 2027) covers Guinea, Guinea-Bissau, Gambia and Senegal.
 
 This repository is the **teaching engine** of the trip: a **two-day course** that
 a local educator can run in their own town, plus the playbook, merchant kit,
@@ -102,6 +107,7 @@ the course; feature-phone options are included.
 | [`translations/`](./translations) | Glossary and one folder per language |
 | [`data/`](./data) | The dashboard (`dashboard.csv` + a branded `dashboard.html` view), pilot lessons, and per-country reports |
 | [`media/`](./media) | Footage archive, episode templates, branded title/end cards and lower-third, brand files, and how to credit them |
+| [`tools/`](./tools) | Scripts and templates for the team (the slide build guide now; dashboard export and payout list planned). |
 
 ## Brand
 
@@ -115,9 +121,18 @@ cards all share it. The logo and ready-made title/end/lower-third cards live in
 
 - Website: https://satsontheroad.africa
 - Upstream curriculum: https://github.com/Bitkwa/bitkwa-bitcoin-diploma
-- Footage archive: [CONFIRM: Internet Archive URL]
+- Campaign site code: https://github.com/Bitkwaofficial/sats-on-the-road
+- Footage archive: [OWNER TO FILL]
 - Live dashboard: https://satsontheroad.africa (and [`data/dashboard.csv`](./data/dashboard.csv))
 - Soundtrack: *Sats On The Road Vol 1* on Audiomack
+
+## Team and partners
+
+Lead: Ayobami Atolagbe. Education & Onboarding: Babatunde Precious. Documentary &
+Media: Toluwalashe Oke.
+
+Every stop is co-hosted by the national Bitcoin community. Pilot co-hosts: Bitcoin
+Benin, Bitcoin Mastermind, Togo Bitcoin Community, Bitcoin Burkina Faso.
 
 ## License
 
