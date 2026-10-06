@@ -22,7 +22,7 @@ markets, schools and villages to teach people to hold their own Bitcoin, use it
 over Lightning, and spend it with real merchants. We train local ambassadors who
 keep teaching after we leave, and we release everything open source.
 
-The 2026 pilot was one person and one car through Benin, Togo and Burkina Faso:
+Pilot Phase 1.0 (2026) was one person and one car through Benin, Togo and Burkina Faso:
 **3,000+ km**, **1,000+ people** onboarded to self-custodial wallets, **22 local
 educators** trained, **20+ merchants** accepting Lightning (see the
 [live dashboard](./data/dashboard.csv)). The pilot taught us that borders, fuel

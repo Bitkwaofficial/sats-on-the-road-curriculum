@@ -106,4 +106,5 @@ Record: name or "declined to give name", town, and the choice they made.
 
 > Treat everyone in the footage the way you would want your own family treated.
 > When in doubt, blur it or leave it out. See the
-> [code of conduct](../playbook/code-of-conduct.md).
+> [code of conduct](../playbook/code-of-conduct.md) and the
+> [data policy](./data-policy.md) for what we store, publish and never keep.
