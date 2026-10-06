@@ -75,8 +75,8 @@ the course; feature-phone options are included.
    [merchant kit](./merchant-kit), and a small amount of sats to seed first
    transactions.
 4. **Teach Day 1** for everyone, then **Day 2** for your future ambassadors.
-   Each session has a [facilitator guide](./curriculum), slides, a handout, an
-   exercise and a short quiz.
+   Each session has a [facilitator guide](./curriculum), a ready-to-present
+   **slide deck (`slides.pptx`)**, a handout, an exercise and a short quiz.
 5. **Report back**: fill in the [monthly report](./playbook/monthly-report-template.md)
    and add a row to the [dashboard](./data/dashboard.csv) so the next town learns
    from yours.
@@ -94,13 +94,21 @@ the course; feature-phone options are included.
 
 | Folder | What it holds |
 |--------|---------------|
-| [`curriculum/`](./curriculum) | The two days, session by session, plus the one-session version |
+| [`curriculum/`](./curriculum) | The two days, session by session (facilitator guide, branded `slides.pptx` deck, handout, exercise, quiz), plus the one-session version |
 | [`playbook/`](./playbook) | Ambassador selection, stipend and verification, reporting, country lead guide, code of conduct |
-| [`merchant-kit/`](./merchant-kit) | Printable "Bitcoin accepted here" sign, QR stand, merchant guide, cash-out options |
+| [`merchant-kit/`](./merchant-kit) | Branded, print-ready "Bitcoin accepted here" sign, QR stand and sticker sheet (PDF + PNG), merchant guide, cash-out options |
 | [`safety/`](./safety) | Opsec for activists and journalists, team safety protocol, consent forms |
 | [`translations/`](./translations) | Glossary and one folder per language |
 | [`data/`](./data) | The dashboard, pilot lessons, and per-country reports |
-| [`media/`](./media) | Footage archive, episode templates, brand files, and how to credit them |
+| [`media/`](./media) | Footage archive, episode templates, branded title/end cards and lower-third, brand files, and how to credit them |
+
+## Brand
+
+Everything follows one system, taken from the logo: cream `#F6EFE3`, near-black
+`#0D0D0D`, orange `#F7931A`, Bricolage Grotesque with JetBrains Mono, and real
+documentary photography from the trip. The slide decks, merchant kit and media
+cards all share it. The logo and ready-made title/end/lower-third cards live in
+[`media/brand/`](./media/brand).
 
 ## Links
 
