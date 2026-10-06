@@ -1,6 +1,6 @@
 date,country,city,people_onboarded,merchants_onboarded,ambassadors_trained,sats_circulated,notes
-# EXAMPLE ROWS BELOW - replace with real data. Numbers and dates are [CONFIRM].,,,,,,,
-[CONFIRM: YYYY-MM-DD],Togo,Lomé,[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"EXAMPLE: the one-session pilot stop, confirm counts from the live dashboard"
-[CONFIRM: YYYY-MM-DD],Ghana,[CONFIRM: city],[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"EXAMPLE row, Phase 1A, confirm all values"
-[CONFIRM: YYYY-MM-DD],Benin,[CONFIRM: city],[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"EXAMPLE row, Phase 1A, confirm all values"
-[CONFIRM: YYYY-MM-DD],Burkina Faso,[CONFIRM: city],[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"EXAMPLE row, Phase 1A, confirm all values"
+# Countries visited so far: Benin, Togo, Burkina Faso, run from the Nigeria base. Fill the counts and dates from the live dashboard; values marked [CONFIRM].,,,,,,,
+[CONFIRM: YYYY-MM-DD],Nigeria,[CONFIRM: base city],[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"Base, trip start and return"
+[CONFIRM: YYYY-MM-DD],Benin,[CONFIRM: city],[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"Visited, confirm counts"
+[CONFIRM: YYYY-MM-DD],Togo,Lomé,[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"Visited, the one-session pilot stop"
+[CONFIRM: YYYY-MM-DD],Burkina Faso,[CONFIRM: city],[CONFIRM],[CONFIRM],[CONFIRM],[CONFIRM],"Visited, confirm counts"

@@ -19,9 +19,10 @@
 **Sats On The Road** is a grassroots Bitcoin road trip across Africa, run by
 BitKwa. A wrapped vehicle drives from town to town teaching people to hold their
 own Bitcoin, use it over the Lightning Network, and spend it with real merchants.
-So far the trip has covered roughly **[CONFIRM: km] km** across
-**[CONFIRM: number] countries**, onboarded **[CONFIRM: number] people** and
-**[CONFIRM: number] merchants** (see the [live dashboard](./data/dashboard.csv)).
+So far the trip has run out of its base in **Nigeria** through **Benin, Togo and
+Burkina Faso** (3 countries), covering roughly **[CONFIRM: km] km** and onboarding
+**[CONFIRM: number] people** and **[CONFIRM: number] merchants** (see the
+[live dashboard](./data/dashboard.csv)).
 **Phase 1A** takes the trip through **[CONFIRM: Ghana, Benin, Togo, Burkina Faso,
 Côte d'Ivoire, Liberia, Sierra Leone]** between **[CONFIRM: start month]** and
 **[CONFIRM: end month] 2026**.
@@ -99,7 +100,7 @@ the course; feature-phone options are included.
 | [`merchant-kit/`](./merchant-kit) | Branded, print-ready "Bitcoin accepted here" sign, QR stand and sticker sheet (PDF + PNG), merchant guide, cash-out options |
 | [`safety/`](./safety) | Opsec for activists and journalists, team safety protocol, consent forms |
 | [`translations/`](./translations) | Glossary and one folder per language |
-| [`data/`](./data) | The dashboard, pilot lessons, and per-country reports |
+| [`data/`](./data) | The dashboard (`dashboard.csv` + a branded `dashboard.html` view), pilot lessons, and per-country reports |
 | [`media/`](./media) | Footage archive, episode templates, branded title/end cards and lower-third, brand files, and how to credit them |
 
 ## Brand

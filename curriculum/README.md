@@ -19,7 +19,8 @@ Each session folder contains:
 | `facilitator-guide.md` | Minute-by-minute plan for the teacher: objectives, talking points, timings, common questions |
 | `slides.md` | Editable slide source in [Marp](../tools/build-slides.md) markdown (translate or tweak here) |
 | `slides.pptx` | The branded, ready-to-present deck (PowerPoint, editable), built from `slides.md` |
-| `handout.md` | One page the learner keeps |
+| `handout.md` | One page the learner keeps (source) |
+| `handout.pdf` | The branded, print-ready handout to hand out |
 | `exercise.md` | The hands-on activity for the session |
 | `quiz.md` | Five questions, used for the ambassador badge, not for pass or fail |
 

@@ -18,7 +18,7 @@
   p{margin-top:18px;font-size:22px;color:rgba(246,239,227,.82);max-width:26ch;}
   .site{margin-top:26px;font-family:"JetBrains Mono",monospace;font-size:18px;color:var(--orange);letter-spacing:.04em;}
   .right{position:relative;z-index:1;display:flex;flex-direction:column;align-items:center;gap:18px;}
-  .qrbox{width:300px;height:300px;border-radius:20px;background:linear-gradient(45deg,#0d0d0d 25%,transparent 25%,transparent 75%,#0d0d0d 75%) 0 0/70px 70px,linear-gradient(45deg,#0d0d0d 25%,transparent 25%,transparent 75%,#0d0d0d 75%) 35px 35px/70px 70px,#fff;border:8px solid #fff;}
+  .qrbox{width:300px;height:300px;border-radius:20px;background:#fff;border:8px solid #fff;object-fit:contain;}
   .right .cap{font-family:"JetBrains Mono",monospace;font-size:16px;letter-spacing:.1em;color:var(--paper);text-transform:uppercase;}
   .right .cap b{color:var(--orange);}
 </style>
@@ -31,7 +31,7 @@
     <div class="site">satsontheroad.africa</div>
   </div>
   <div class="right">
-    <div class="qrbox"></div>
+    <img class="qrbox" src="join-qr.png" alt="Scan to join the waitlist">
     <div class="cap"><b>⚡</b> Scan to join the waitlist</div>
   </div>
 </body>

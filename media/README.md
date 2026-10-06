@@ -31,9 +31,13 @@ Ready-made, on-brand cards live in [`brand/`](./brand) (editable HTML + PNG):
 - [`brand/lower-third.html`](./brand/lower-third.html) / [PNG](./brand/lower-third.png), name + role caption (transparent).
 
 Fill the `[ bracketed ]` placeholders, then screenshot or screen-record the card.
+The end card already embeds the live [`join-qr.png`](./brand/join-qr.png).
 
-Keep its clear space clean: do not stretch, recolour or crowd the logo. If you need
-other formats (SVG, transparent, monochrome), add them to this `brand/` folder.
+Logo variants in [`brand/`](./brand): `sotr-logo.png` (full, white background),
+`sotr-logo-transparent.png` (no background, for light surfaces), and
+`sotr-logo-on-dark.png` (on a cream chip, for dark backgrounds and video).
+
+Keep its clear space clean: do not stretch, recolour or crowd the logo.
 
 ## Footage archive
 
