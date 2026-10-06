@@ -1,3 +1,4 @@
+<!-- DRAFT: owner to review -->
 <p align="center"><img src="brand/sotr-logo.png" alt="Sats On The Road" width="300"></p>
 
 # Shot List
@@ -20,6 +21,22 @@ faces of anyone who did not give it.
 | 8 | **Landscape / road b-roll** | The road, the countryside, the next town ahead | Quiet shots to breathe between segments and to open or close. |
 | 9 | **Sign-off** | A closing shot, the team or vehicle leaving | Mirrors the arrival. Leaves the viewer with the place. |
 | 10 | **Branding** | Logo on the vehicle, banners, merchant signs, a clean plate for the end card | Feeds the title card, the brand bug and the end card. See [episode template](./episode-template.md). |
+
+## Per-country checklist
+
+The media lead copies this list for each country and ticks each shot as it is
+captured. Country: [OWNER TO FILL]
+
+- [ ] 1. Arrival
+- [ ] 2. Market
+- [ ] 3. Teaching
+- [ ] 4. Wallet setup moment
+- [ ] 5. First payment (⚡ Lightning)
+- [ ] 6. Merchant onboarding
+- [ ] 7. Interview (what changed for you?)
+- [ ] 8. Landscape / road b-roll
+- [ ] 9. Sign-off
+- [ ] 10. Branding (logo on vehicle, banners, signs, clean plate for the end card)
 
 ## Practical notes
 
